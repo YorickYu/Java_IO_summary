@@ -1,7 +1,7 @@
 # Java_IO_summary
 IO思维导图
 
-![IO](https://github.com/YorickYu/HashMap_xmind_png/blob/main/images/HashMap_xmind2.0.png)
+![IO](https://github.com/YorickYu/Java_IO_summary/blob/main/images/IO.png)
 
 ---
 
